@@ -1,5 +1,5 @@
 #include<iostream>
-#include "Estudiante.cpp"
+#include "Estudiante(Parcial).cpp"
 using namespace std;
 
 class Curso: Estudiante {

@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Curso.cpp"
+#include "Curso(Parcial).cpp"
 #include <stdlib.h>
 
 using namespace std;
